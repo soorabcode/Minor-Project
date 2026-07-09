@@ -45,9 +45,3 @@ Develop a channel-aware, domain-adaptive deep learning framework for Massive MIM
 
 **Real / Measured (target domain)**
 - **DICHASUS (DICHASUS-005x)** — over-the-air measured Massive MIMO-OFDM channel responses, collected using a 32-antenna array with 1024 subcarriers. Used as the unlabeled target domain for adaptation.
-
-
-
-## 📬 Contact
-
-For questions or suggestions regarding this project, please reach out to the team via the Department of Electronics & Computer Engineering, Pulchowk Campus.
